@@ -1,7 +1,7 @@
 # WhatsWapp
 
 A simple Flutter-based Wrapper around WhatsApp Web to make it possible to use WhatsApp as a 
-dedicated App on your smartphone, without using your browser or bookmarks.
+dedicated App on your TABLET, without using your browser or bookmarks.
 
 ## Why?
 Because especially on iOS, the WhatsApp Web page will get automatically detected as mobile even
