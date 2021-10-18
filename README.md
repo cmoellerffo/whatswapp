@@ -1,16 +1,13 @@
-# whatswapp
+# WhatsWapp
 
-A new Flutter project.
+A simple Flutter-based Wrapper around WhatsApp Web to make it possible to use WhatsApp as a 
+dedicated App on your smartphone, without using your browser or bookmarks.
 
-## Getting Started
+## Why?
+Because especially on iOS, the WhatsApp Web page will get automatically detected as mobile even
+though you set the UserAgent to Desktop. This kills my time :-) 
 
-This project is a starting point for a Flutter application.
+## Usage
+Compile and use, it is currently not listed on any AppStore whether Android nor iOS.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to fork it.
